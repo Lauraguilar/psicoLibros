@@ -1,0 +1,173 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    background-image: linear-gradient(#6495ed,#f8f9fa);
+    background-repeat: no-repeat;
+}
+
+/******** CABECERA *******/
+header {
+    margin-top: 10px;
+    border-radius: 10px;
+    font-weight: bolder;
+    font-size: 1.2em;
+}
+
+    nav div ul {
+        width: 70%;
+    }
+
+    #logo { 
+        height: 50px;
+    }
+
+/******** CUERPO *******/
+
+/*****generales*/
+main { 
+
+    margin-top: 95px;
+    margin-bottom: 30px;
+    padding: 5px;
+    border-radius: 1ch;
+}
+
+
+
+/*****inicio*/
+#inicio {
+    margin: 20px 0px;
+    background-color: azure;
+    padding: 10px;
+    border-radius: 1ch;
+    box-shadow: 0px 10px 10px #372b4c6e;
+}
+
+/*****compras*/
+
+#compras {
+    margin: 20px 0px;
+    background-color: azure;
+    border-radius: 1ch;
+    padding: 15px;
+    box-shadow: 0px 10px 10px #372b4c6e;
+}
+
+    /*****libros*/
+    #imgcarrito {
+        font-size: 1.5rem;
+        color:black;
+    }
+
+    #libros .card {
+        margin: 10px;
+        box-shadow: 0px 10px 10px #372b4c6e;
+    }
+
+    #cantPaginas li{
+        display: inline-block;
+    }
+
+    #carrito { 
+        display: inline-block;
+        font-size: small;
+        color: black;
+    }
+
+    #detalle {
+        width: 100%;
+        height: 100%;
+        background-color:white;
+        padding: 10px;
+    }
+
+    #formulario {
+        margin: 30px 0px;
+    }
+
+    .imagenesLibros {
+        height: 300px;
+        width: 200px;
+        margin: 15px 0px;
+    }
+
+/*****pedidos*/ 
+#pedidos { 
+    margin: 20px 0px;
+    background-color: azure;
+    border-radius: 1ch;
+    padding: 15px;
+    box-shadow: 0px 10px 10px #372b4c6e;
+}
+
+    #borde {
+        width: 50%;
+        border-style: solid;
+        border-width: 0,3rem;
+        padding: 15px;
+        border-radius: 1ch;
+        box-shadow: 0px 10px 30px #372b4c6e;
+    }
+
+/*****nosotras*/ 
+#nosotras {
+    margin: 20px 0px;
+    background-color: azure;
+    border-radius: 1ch;
+    padding: 15px;
+    box-shadow: 0px 10px 10px #372b4c6e;
+}
+
+    .cursiva {
+        font-style: oblique;
+    }
+
+    .nos {
+        background-color: white;
+        margin: 20px;
+        border-radius: 1ch;
+        padding: 10px;
+        text-align: center;
+    }
+
+    .nombres { 
+        font-weight: bolder;
+    }
+
+    .boxFoto {
+        border-radius: 55rem;
+        box-shadow: 0px 10px 30px #372b4c6e;
+        width: 250px;
+        height: 250px;
+        margin: 20px 0px;
+    }
+
+/******** PIE *******/
+footer {
+    padding: 20px 0px;
+}
+
+footer nav a {
+    margin: 15px;
+    border-radius: 55rem;
+    border-style: solid;
+    box-shadow: 0px 10px 10px #372b4c6e;
+    color: rgba(0,0,0,.5);
+}
+
+footer nav a i {
+    font-size: 2.3rem;
+    font-weight: lighter;
+    color: rgba(0,0,0,.5);
+    margin: 10px 5px;
+}
+
+footer nav a:hover {
+    color: rgba(0,0,0,.7);
+    font-size: 2.5rem;
+}
+
+#autor {
+    margin-top: 80px;
+    font-weight: lighter;
+}
+

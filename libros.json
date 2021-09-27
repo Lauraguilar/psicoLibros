@@ -1,0 +1,12 @@
+{
+    "libros": [{"id":1,"titulo":"Algo es posible","autor":"Elida Fernández","editorial":"images/tapasLibros/Libro1.jpg","valor":754.54,"cantidad":22},
+        {"id":2,"titulo":"Clinica de las neurosis","autor":"Monica Torres","editorial":"images/tapasLibros/Libro2.jpeg","valor":1982.04,"cantidad":23},
+        {"id":3,"titulo":"Seminario 5 Las formaciones del Inconsciente","autor":"Jacques Lacan","editorial":"images/tapasLibros/Libro3.jpg","valor":885.41,"cantidad":43},
+        {"id":4,"titulo":"Seminario 11 Los cuatro conceptos fundamentales","autor":"Leland Minucci","editorial":"images/tapasLibros/Libro4.jpg","valor":1659.91,"cantidad":33},
+        {"id":5,"titulo":"Desadultorizaciones","autor":"Ricardo Rodulfo","editorial":"images/tapasLibros/Libro5.jpg","valor":1883.71,"cantidad":55},
+        {"id":6,"titulo":"La diferencia desquiciada ","autor":"Ana María Fernández","editorial":"images/tapasLibros/Libro6.jpg","valor":1396.86,"cantidad":73},
+        {"id":7,"titulo":"Piezas sueltas","autor":"Jacques-Alain Miller","editorial":"images/tapasLibros/Libro7.jpg","valor":1462.7,"cantidad":75},
+        {"id":8,"titulo":"Lecciones de introducción al psicoanálisis","autor":"Oscar Masotta","editorial":"images/tapasLibros/Libro8.jpg","valor":671.33,"cantidad":77},
+        {"id":9,"titulo":"Estudios sobre la psicosis","autor":"Colette Soler","editorial":"images/tapasLibros/Libro9.jpg","valor":59.59,"cantidad":28},
+        {"id":10,"titulo":"Género, psicoanálisis, subjetividad","autor":"Mabel Burin, Emilce Dio Bleichmar","editorial":"images/tapasLibros/Libro10.jpg","valor":1244.02,"cantidad":7}]
+}
